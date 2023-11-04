@@ -1,3 +1,3 @@
 # gym-website
 
-Simple fitness application...# gym-website
+Simple fitness application...
